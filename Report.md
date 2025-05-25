@@ -61,4 +61,4 @@ Lambda Expression
 
 2. Code that implements Runnable is more structured and is better when we need to reuse the same code multiple times, as it allows us to leverage class features and benefits repeatedly.
 
-3. Code that extends Thread can no longer inherit from any other class (due to Java's single inheritance) and is generally used less frequently.
+3. Code that extends Thread can no longer inherit from any other class (due to Java's single inheritance) and is generally used less frequently
